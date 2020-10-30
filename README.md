@@ -5,7 +5,7 @@
 
 ## Usage
 ```python
-from RAdam import RAdamOptimizer
+from radam import RAdamOptimizer
 
 train_op = RAdamOptimizer(learning_rate=0.001, beta1=0.9, beta2=0.999, weight_decay=0.0).minimize(loss)
 ```
