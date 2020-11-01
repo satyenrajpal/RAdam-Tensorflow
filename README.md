@@ -1,6 +1,14 @@
 <h1 align="center">RAdam-Tensorflow</h1>
 <h4 align="center">On the Variance of the Adaptive Learning Rate and Beyond</h5>
 
+
+### Installation
+NOTE: This implementation is for Tensorflow 1.x only -
+
+```
+pip install tf-1.x-rectified-adam
+```
+
 ### [Paper](https://arxiv.org/abs/1908.03265) | [Official Pytorch code](https://github.com/LiyuanLucasLiu/RAdam)
 
 ## Usage
